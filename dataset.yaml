@@ -1,0 +1,5 @@
+path: ../datasets  # Path ke folder dataset
+train: images/train  # Path ke folder gambar train
+val: images/val  # Path ke folder gambar val
+nc: 1  # Jumlah kelas (untuk deteksi plat nomor saja)
+names: ['plate']  # Nama kelas
